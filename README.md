@@ -1,5 +1,3 @@
-# monitoreo-sensores-kafka-spark
-Monitoreo de temperatura y humedad con datos simulados mediante Python, Apache Kafka y Spark Structured Streaming.
 # Monitoreo de sensores con Kafka y Spark
 
 ## Descripción
